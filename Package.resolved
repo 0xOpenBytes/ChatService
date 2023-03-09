@@ -1,0 +1,68 @@
+{
+  "pins" : [
+    {
+      "identity" : "c",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/c",
+      "state" : {
+        "revision" : "876899c63377f407a27316ce24eb7bc37653cb13",
+        "version" : "4.0.0"
+      }
+    },
+    {
+      "identity" : "cache",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/Cache",
+      "state" : {
+        "revision" : "356c1005b3b4b220fd83700450a7faf1c55d752e",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "fork",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xLeif/Fork",
+      "state" : {
+        "revision" : "7682617694979adcf1f8b08d1507c865cad81ae4",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "network",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/Network",
+      "state" : {
+        "revision" : "c6c40ef1d9198df3b1f35b267f246a7ffa9b0571",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "o",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/o",
+      "state" : {
+        "revision" : "3e83362434c82f318a8d72e0d3b0786ffb3ba640",
+        "version" : "2.1.0"
+      }
+    },
+    {
+      "identity" : "plugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xLeif/Plugin",
+      "state" : {
+        "revision" : "bd5449fc40720589881bacb4ed7373ddfcb2d214",
+        "version" : "2.0.2"
+      }
+    },
+    {
+      "identity" : "t",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/0xOpenBytes/t",
+      "state" : {
+        "revision" : "c111675ac4d84af23d2d9b65bffaf1829c376986",
+        "version" : "1.0.4"
+      }
+    }
+  ],
+  "version" : 2
+}
