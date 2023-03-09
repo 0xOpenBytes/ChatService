@@ -4,6 +4,8 @@
 
 ChatService is a Swift package that provides a simple API for chatting with an AI-powered bot based on GPT (Generative Pretrained Transformer) architecture. The package uses OpenAI's GPT models to generate responses to user inputs, and provides an interface for managing chats and chat history.
 
+**[OpenAI API Reference](https://platform.openai.com/docs/api-reference/chat)**
+
 
 ## Usage
 
