@@ -2,7 +2,7 @@
 
 *🤖 Chat with GPT*
 
-ChatService is a Swift package that provides a simple API for chatting with an AI-powered bot based on GPT (Generative Pretrained Transformer) architecture. The package uses OpenAI's GPT models to generate responses to user inputs, and provides an interface for managing chats and chat history.
+ChatService is a Swift package that provides a simple API for chatting with an AI-powered bot based on GPT (Generative Pretrained Transformer) architecture. The package uses OpenAI's GPT models to generate responses to user inputs.
 
 **[OpenAI API Reference](https://platform.openai.com/docs/api-reference/chat)**
 
@@ -27,7 +27,7 @@ You can then use the completion method to generate a response to a user message:
 let response: String = try await chatService.completion(for: "Hello?")
 ```
 
-You can access the chat history using the chatHistory property of the Chat object:
+You can access the chat history using the chatHistory property of the ChatService object:
 
 ```swift
 let chatHistory: [ChatService.Chat] = chat.chatHistory
